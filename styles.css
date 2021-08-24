@@ -1,0 +1,28 @@
+body {
+  background-image: url(myimage.jpg);
+   background-repeat: no-repeat;  
+  background-size: 100%; }
+
+ .areaprincipal {
+     width: 70%;
+    background-color: #FFFFFF;
+   margin:0 auto;     }
+
+   .conteudo {
+display: table;}
+
+.imagem{
+
+    display: table-cell;
+    float: left;
+
+   }
+   .texto{
+
+    display: table-cell;
+    float: left;
+    width: 300px;
+    margin-top: -20px;
+    margin-left: 20px;
+    
+   }
